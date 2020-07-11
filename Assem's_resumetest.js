@@ -41,8 +41,8 @@
             }
         },
         { 
-            University : 'Abay KazNPU',
-            Major : 'BA in Education',
+            University : 'UCLA',
+            Major : 'master of having fun',
             academicYears : 2007-2011,
             location : 'Almaty, Kazakhstan',
             info : function (){
